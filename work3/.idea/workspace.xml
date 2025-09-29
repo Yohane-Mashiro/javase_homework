@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eed51f9-fe10-42a3-89b8-4390ea2570a6" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../work2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/src/main/java/study/javase/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../work2/src/main/java/study/javase/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/javase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/javase/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/javase/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/javase/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/javase/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../work1" beforeDir="false" afterPath="$PROJECT_DIR$/../work1" afterDir="false" />
-    </list>
+    <list default="true" id="9eed51f9-fe10-42a3-89b8-4390ea2570a6" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,9 +37,10 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dir-blast",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759157180861</updated>
-      <workItem from="1759157182003" duration="3596000" />
+      <workItem from="1759157182003" duration="4124000" />
     </task>
     <servers />
   </component>
